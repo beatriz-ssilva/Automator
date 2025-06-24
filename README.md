@@ -49,5 +49,4 @@ Automatização de download de arquivos em site e envio automático de e-mails c
 
 
 ⭐ Esse projeto é parte do meu portfólio, e estou sempre em busca de aprender mais. Obrigada por passar por aqui!
-Se esse projeto te ajudou ou inspirou, sinta-se à vontade para dar uma estrela no repositório ou abrir uma issue com sugestões.
-🔗 Me adiciona no LinkedIn, vamos conversar sobre tech e projetos :) 
+Se esse projeto te ajudou ou inspirou, sinta-se à vontade para dar uma estrela no repositório ou abrir uma issue com sugestões. Me adiciona no LinkedIn, vamos conversar sobre tech e projetos :) 
