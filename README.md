@@ -3,7 +3,7 @@
 Automatização de download de arquivos em site e envio automático de e-mails com anexo, agendado via terminal.
 
 ## Tecnologias utilizadas:
-- Python 3.x
+- Python
 - Selenium
 - smtplib
 - schedule
