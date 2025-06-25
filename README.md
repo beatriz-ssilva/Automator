@@ -22,16 +22,18 @@ Automatização de download de arquivos em site e envio automático de e-mails c
 
 ▶️ Como executar
 ## 1. Clone o repositório
-- bash
-- Copiar
-- Editar
-- git clone https://github.com/beatriz-ssilva/Automator.git
-- cd Automator
+```bash
+Copiar
+Editar
+git clone https://github.com/beatriz-ssilva/Automator.git
+cd Automator
+```
 ## 2. Instale as dependências
-- bash
-- Copiar
-- Editar
-- pip install -r requirements.txt
+```bash
+Copiar
+Editar
+pip install -r requirements.txt
+```
 ## 3. Crie um arquivo .env com suas credenciais de e-mail
 - ini
 - Copiar
