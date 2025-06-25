@@ -35,18 +35,21 @@ Editar
 pip install -r requirements.txt
 ```
 ## 3. Crie um arquivo .env com suas credenciais de e-mail
-- ini
-- Copiar
-- Editar
-- EMAIL_USER=seuemail@gmail.com
-- EMAIL_PASS=sua_senha_de_app
-- EMAIL_TO=destinatario@gmail.com
-- OBS: use uma senha de aplicativo do Gmail para evitar problemas de segurança
+```ini
+Copiar
+Editar
+EMAIL_USER=seuemail@gmail.com
+EMAIL_PASS=sua_senha_de_app
+EMAIL_TO=destinatario@gmail.com
+```
+OBS: use uma senha de aplicativo do Gmail para evitar problemas de segurança
+
 ## 4. Execute o script principal
-- bash
-- Copiar
-- Editar
-- python main.py
+```bash
+Copiar
+Editar
+python main.py
+```
 - OBS: o programa vai agendar a tarefa para rodar todo dia às 09:00 da manhã. Se quiser testar em outro horário, você pode alterar o horário no arquivo scheduler.py
 
 
