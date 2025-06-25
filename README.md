@@ -42,7 +42,7 @@ EMAIL_USER=seuemail@gmail.com
 EMAIL_PASS=sua_senha_de_app
 EMAIL_TO=destinatario@gmail.com
 ```
-OBS: use uma senha de aplicativo do Gmail para evitar problemas de segurança
+- OBS: use uma senha de aplicativo do Gmail para evitar problemas de segurança
 
 ## 4. Execute o script principal
 ```bash
