@@ -20,7 +20,7 @@ Automatização de download de arquivos em site e envio automático de e-mails c
 
 ---
 
-▶️ Como executar
+▶️ Como executar:
 ## 1. Clone o repositório
 ```bash
 Copiar
